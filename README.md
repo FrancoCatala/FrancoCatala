@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Franco Catala</h1>
 <h3 align="center">A passionate frontend developer from Mendoza Argentina</h3>
 
+<div id = "header" align="left"> 
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
+</div>
+
+
+
 - 🔭 I’m currently studying on **UTN**
 
 - 🌱 I’m currently learning **PHP, Javascript**
