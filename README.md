@@ -1,12 +1,7 @@
 
 <img1 align="center" alt="img" src="https://giphy.com/gifs/hs2EhrijNyyTPK6JRB/giphy.gif" width="40%" height="auto" />
 
-<p align="center">
 
-<a href="https://jlferrete.com"><img noSrc="https://jlferrete.com/wp- content/uploads/2020/07/jlferrete-optimize.gif" alt="Jose Luis Ferrete has a lot of ideas"/></a>
-
-
-</p>
 
 <h1 align="center">Hi 👋, I'm Franco Catala</h1>
 <h3 align="center">A passionate frontend developer from Mendoza Argentina
@@ -24,12 +19,7 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
 
 <img1 align="center" alt="img" src="https://giphy.com/gifs/8DE8j6Jv8arjkEYCKq " width="40%" height="auto" />
 
-<p align="center">
 
-<a href="https://jlferrete.com"><img noSrc="https://jlferrete.com/wp- content/uploads/2020/07/jlferrete-optimize.gif" alt="Jose Luis Ferrete has a lot of ideas"/></a>
-
-
-</p>
 
 - 🔭 I’m currently studying on **UTN**
 
