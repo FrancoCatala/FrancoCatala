@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **PHP, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/francocatala](https://github.com/francocatala)  <div id = "header" align="right"> 
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/francocatala](https://github.com/francocatala)
 
 - 💬 Ask me about **Java, Python**
 
