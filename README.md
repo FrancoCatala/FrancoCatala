@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
 </div>
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50%" height="auto" />
 
 - 🔭 I’m currently studying on **UTN**
 
