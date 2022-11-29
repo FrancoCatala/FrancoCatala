@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
 <div id = "header" align="center"> 
     <img src="./portfolio-FrontEnd/Negro y Blanco Deportes Bienestar Animación Presentación.gif" alt="" width="20" />
 </div>
-![34fiEUG](https://user-images.githubusercontent.com/111473034/204655094-bc7b8c2b-16c5-401b-87e2-d64d3bc06211.gif)
+
 
 
 <img align="right" alt="img" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40%" height="auto" />
