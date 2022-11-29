@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franco Catala</h1>
-<h3 align="center">A passionate frontend developer from Mendoza Argentina</h3>
+<h3 align="center">A passionate frontend developer from Mendoza Argentina
+Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying or programming, I do some sports, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.</h3>
 
 <div id = "header" align="center"> 
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
