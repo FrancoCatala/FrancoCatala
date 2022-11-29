@@ -1,10 +1,5 @@
 
-<img align="center" alt="img" src="https://giphy.com/gifs/hs2EhrijNyyTPK6JRB/giphy" width="40%" height="auto" />
-
-
-https://giphy.com/gifs/hs2EhrijNyyTPK6JRB
-
-
+<img align="center" alt="img" src="https://giphy.com/gifs/hs2EhrijNyyTPK6JRB" width="40%" height="auto" />
 
 
 
