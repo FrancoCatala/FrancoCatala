@@ -1,4 +1,4 @@
-<p><img align="right" alt="gif" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://github.com/FrancoCatala/ArgentinaPrograma/blob/main/Modulo%202/Negro%20y%20Blanco%20Deportes%20Bienestar%20Animaci%C3%B3n%20Presentaci%C3%B3n.gif)" width="auto" height="auto" /></p>
+<p><img align="right" alt="gif" src="https://giphy.com/gifs/hs2EhrijNyyTPK6JRB " width="auto" height="auto" /></p>
 
 
 
