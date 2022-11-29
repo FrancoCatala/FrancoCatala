@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
 </div>
 
-
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 - 🔭 I’m currently studying on **UTN**
 
@@ -17,6 +17,9 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
 - 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **francocatala750@gmail.com**
+
+- ✔️ What I like to do:
+ I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living!!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
