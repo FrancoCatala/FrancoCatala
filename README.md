@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying or programming, I do some sports, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.</h3>
 
 <div id = "header" align="center"> 
-    <img src="Negro y Blanco Deportes Bienestar Animación Presentación.gif" width="300" />
+    <img src="./portfolio-FrontEnd/Negro y Blanco Deportes Bienestar Animación Presentación.gif" alt="" width="300" />
 </div>
 
 
