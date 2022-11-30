@@ -1,5 +1,5 @@
 
-<img align="right" alt="img" src="https://media.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif" width="40%" height="auto" />
+<img align="center" alt="img" src="https://media.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif" width="40%" height="auto" />
 
 <h1 align="center">Hi 👋, I'm Franco Catala</h1>
 <h3 align="center">A passionate frontend developer from Mendoza Argentina
