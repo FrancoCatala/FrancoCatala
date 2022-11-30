@@ -22,8 +22,8 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
 
 - ✔️ What I like to do:
  I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living!!!
- 
- <img align="center" alt="img" src="[https://giphy.com/gifs/hs2EhrijNyyTPK6JRB/giphy.gif](https://media2.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif)" width="40%" height="auto" />
+
+ <img align="center" alt="img" src="[[https://giphy.com/gifs/hs2EhrijNyyTPK6JRB/giphy.gif](https://media2.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif)](https://media2.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif)" width="40%" height="auto" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
