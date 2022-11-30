@@ -1,23 +1,12 @@
 
-<img align="center" alt="img" src="[https://giphy.com/gifs/hs2EhrijNyyTPK6JRB/giphy.gif](https://media2.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif)" width="40%" height="auto" />
-
 
 
 <h1 align="center">Hi 👋, I'm Franco Catala</h1>
 <h3 align="center">A passionate frontend developer from Mendoza Argentina
 Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying or programming, I do some sports, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.</h3>
 
-<div id = "header" align="center"> 
-    <img src="[./portfolio-FrontEnd/Negro y Blanco Deportes Bienestar Animación Presentación.gif](https://github.com/FrancoCatala/ArgentinaPrograma/blob/main/Modulo%202/Negro%20y%20Blanco%20Deportes%20Bienestar%20Animaci%C3%B3n%20Presentaci%C3%B3n.gif)" alt="" width="20" />
-</div>
-    <img align="center" alt="gif" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://github.com/FrancoCatala/ArgentinaPrograma/blob/main/Modulo%202/Negro%20y%20Blanco%20Deportes%20Bienestar%20Animaci%C3%B3n%20Presentaci%C3%B3n.gif)" width="auto" height="auto" />
-    
-    
-<p><img align="center" alt="gif" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://github.com/FrancoCatala/ArgentinaPrograma/blob/main/Modulo%202/Negro%20y%20Blanco%20Deportes%20Bienestar%20Animaci%C3%B3n%20Presentaci%C3%B3n.gif)" width="auto" height="auto" /></p>
 
 <img align="right" alt="img" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40%" height="auto" />
-
-<img1 align="center" alt="img" src="https://giphy.com/gifs/8DE8j6Jv8arjkEYCKq " width="40%" height="auto" />
 
 
 
@@ -33,6 +22,8 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
 
 - ✔️ What I like to do:
  I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living!!!
+ 
+ <img align="center" alt="img" src="[https://giphy.com/gifs/hs2EhrijNyyTPK6JRB/giphy.gif](https://media2.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif)" width="40%" height="auto" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
