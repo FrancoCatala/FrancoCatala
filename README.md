@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying or programming, I do some sports, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.</h3>
 
 
-<img align="right" alt="img" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20%" height="auto" />
 
 
 
