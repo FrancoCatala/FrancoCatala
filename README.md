@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying o
     
 <p><img align="center" alt="gif" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://github.com/FrancoCatala/ArgentinaPrograma/blob/main/Modulo%202/Negro%20y%20Blanco%20Deportes%20Bienestar%20Animaci%C3%B3n%20Presentaci%C3%B3n.gif)" width="auto" height="auto" /></p>
 
-
+<img align="right" alt="img" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40%" height="auto" />
 
 <img1 align="center" alt="img" src="https://giphy.com/gifs/8DE8j6Jv8arjkEYCKq " width="40%" height="auto" />
 
