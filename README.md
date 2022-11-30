@@ -1,5 +1,5 @@
 
-<img align="center" alt="img" src="https://media.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif" width="70%" height="100%" />
+<img align="center" alt="img" src="https://media.giphy.com/media/hs2EhrijNyyTPK6JRB/giphy.gif" width="70%" height="70%" />
 
 <h3 align="center">👋 A passionate frontend developer from Mendoza Argentina
 Welcome to my GitHub! I'm Franco, a programming student. When I'm not studying or programming, I do some sports, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.</h3>
